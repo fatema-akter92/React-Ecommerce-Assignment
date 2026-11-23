@@ -2,11 +2,11 @@
 
 A high-performance, responsive E-Commerce web application built with **React.js**, **Redux Toolkit**, and **React Router**, powered by live data from the **FakeStore API**.
 
----
+
 
 ------
 
-#### Live Project Link: 
+#### Live Project Link: https://react-ecommerce-assignment-six.vercel.app/
 
 -------
 
