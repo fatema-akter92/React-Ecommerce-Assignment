@@ -1,4 +1,4 @@
-# ApexStore - Modern E-Commerce Shopping Application
+## ApexStore - Modern E-Commerce Shopping Application
 
 A high-performance, responsive E-Commerce web application built with **React.js**, **Redux Toolkit**, and **React Router**, powered by live data from the **FakeStore API**.
 
@@ -19,7 +19,7 @@ All shopping cart and application states are managed using **Redux Toolkit** wit
 
 ---
 
-## 3. Technologies Used
+### 3. Technologies Used
 - **Frontend Framework:** React 19 / React.js
 - **State Management:** Redux Toolkit (`@reduxjs/toolkit`) & React Redux (`react-redux`)
 - **Routing:** React Router v7 (`react-router-dom`)
@@ -33,7 +33,7 @@ All shopping cart and application states are managed using **Redux Toolkit** wit
 
 ---
 
-## 4. Main Features
+### 4. Main Features
 
 ### A. Home Page (`/`)
 - **API Integration:** Fetches real-time products from `https://fakestoreapi.com/products` using Redux `createAsyncThunk`.
